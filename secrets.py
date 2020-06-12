@@ -1,0 +1,5 @@
+
+
+spotify_token = "BQD6GErK6afpw2zO7YjG_odq2WHGoaaL-uiZVn2mOLJ04F7RWkM3rgZ3D5RC0W18Sk_mJhsqjsaeRS38MmDftpX4iJIS5Y8At-neamSZvlwgokYO9pqWwPnGb5YmmE3QbNX4LzmK241Yk1udLWgBOcS-7yDkItP53SPUY1-Eu56S-gcgiyQ"
+spotify_user_id = "shobiishobs"
+
